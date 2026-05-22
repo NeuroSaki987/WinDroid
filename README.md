@@ -1,2 +1,2 @@
 # WinDroid
-Run Apk
+Run Apk on Windows platform
